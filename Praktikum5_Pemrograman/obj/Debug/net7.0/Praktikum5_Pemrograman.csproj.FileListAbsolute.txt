@@ -1,0 +1,15 @@
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\bin\Debug\net7.0\Praktikum5_Pemrograman.exe
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\bin\Debug\net7.0\Praktikum5_Pemrograman.deps.json
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\bin\Debug\net7.0\Praktikum5_Pemrograman.runtimeconfig.json
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\bin\Debug\net7.0\Praktikum5_Pemrograman.dll
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\bin\Debug\net7.0\Praktikum5_Pemrograman.pdb
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.csproj.AssemblyReference.cache
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.AssemblyInfoInputs.cache
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.AssemblyInfo.cs
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.csproj.CoreCompileInputs.cache
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.dll
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\refint\Praktikum5_Pemrograman.dll
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.pdb
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\Praktikum5_Pemrograman.genruntimeconfig.cache
+D:\22.11.4873\Tugas Pemrograman\Praktikum5_Pemrograman\Praktikum5_Pemrograman\obj\Debug\net7.0\ref\Praktikum5_Pemrograman.dll

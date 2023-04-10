@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Praktikum5_Pemrograman/1.0.0": {
+        "runtime": {
+          "Praktikum5_Pemrograman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Praktikum5_Pemrograman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
